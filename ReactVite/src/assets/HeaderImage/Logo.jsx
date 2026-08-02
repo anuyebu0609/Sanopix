@@ -1,0 +1,1 @@
+export const Logo="https://ik.imagekit.io/opzxy97kk/Sanopix-Academy-Transparent-Logo.png?updatedAt=1781203253094"

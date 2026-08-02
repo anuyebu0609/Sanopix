@@ -1,0 +1,2 @@
+export const Bg="https://ik.imagekit.io/opzxy97kk/ChatGPT%20Image%20Jul%2011,%202026,%2009_54_41%20PM.png"
+export const girl="https://ik.imagekit.io/opzxy97kk/ChatGPT%20Image%20Jul%2011,%202026,%2011_08_22%20PM.png"
